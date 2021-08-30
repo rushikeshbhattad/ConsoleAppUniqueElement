@@ -23,7 +23,7 @@ namespace UniqueRepetedOnceDemo
                         count++;
                     }
                 }
-                if (count == 1)//Replace count == 2 to show elements which are repeted twice
+                if (count == 1)
                 {
                     notRepeted++;
                 }
